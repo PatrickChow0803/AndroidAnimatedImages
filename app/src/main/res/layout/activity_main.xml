@@ -47,6 +47,7 @@
         android:src="@android:drawable/arrow_down_float" />
 
     <ImageView
+        android:id="@+id/iv_change"
         android:src="@android:drawable/ic_media_play"
         app:layout_constraintBottom_toTopOf="@id/iv_down"
         app:layout_constraintRight_toRightOf="parent"
